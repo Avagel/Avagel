@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Akanume Iruoghene
 
-<!--
-**Avagel/Avagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack JavaScript Developer passionate about building fast, scalable, and user-friendly web applications using the MERN stack — MongoDB, Express.js, React, and Node.js.
 
-Here are some ideas to get you started:
+I love transforming ideas into functional products and exploring the intersection of design, logic, and performance. My focus is on clean architecture, responsive UI, and creating seamless user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+Frontend: React, Redux, Tailwind CSS, React Native
+
+Backend: Node.js, Express.js, REST APIs, Socket.io
+
+Database: MongoDB, Mongoose, PostgreSQL
+
+Tools & Platforms: Git, GitHub, Vercel, Render, Railway, Postman
+
+
+
+📫 Connect With Me
+
+GitHub: github.com/Avagel
+
+LinkedIn: www.linkedin.com/in/akanume-iruoghene-437015342
+
+Email: akanumeiruoghene@gmail.com
